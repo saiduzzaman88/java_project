@@ -1,2 +1,2 @@
-# java_project
+# How to Operate:
 java
