@@ -2,7 +2,7 @@ JaVa
 # Prerequisite
 * Java installed
 * MySQL
-* Xampp
+* Xampp (make sure xampp is always running along Apache to get access to the database)
 * Eclipse Environment
 
 # How to Operate:
